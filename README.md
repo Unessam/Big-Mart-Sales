@@ -1,2 +1,5 @@
 # Big-Mart-Sales
-this respiratory includes three stages: 1st. EDA of Big Mart Sales Dataset, 2nd, feature engineering, 3rd, applying ML to build a model
+this respiratory includes three stages: 
+1st stage: EDA of Big Mart Sales Dataset,
+2nd stage: feature engineering, 
+3rd stage: applying ML to build a model
